@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArvSak", "ArvSak\ArvSak.csproj", "{FE837496-E42B-4ED3-BB6B-2DFB81BCACFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE837496-E42B-4ED3-BB6B-2DFB81BCACFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE837496-E42B-4ED3-BB6B-2DFB81BCACFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE837496-E42B-4ED3-BB6B-2DFB81BCACFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE837496-E42B-4ED3-BB6B-2DFB81BCACFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01FAA0F3-0623-4FCC-9536-ECFCF30C8982}
+	EndGlobalSection
+EndGlobal

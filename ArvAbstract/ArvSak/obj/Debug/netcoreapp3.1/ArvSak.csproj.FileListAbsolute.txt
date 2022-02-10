@@ -1,0 +1,14 @@
+C:\Users\Elev\Desktop\Programmering\ArvSak\ArvSak\obj\Debug\netcoreapp3.1\ArvSak.csproj.AssemblyReference.cache
+C:\Users\Elev\Desktop\Programmering\ArvSak\ArvSak\obj\Debug\netcoreapp3.1\ArvSak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\Desktop\Programmering\ArvSak\ArvSak\obj\Debug\netcoreapp3.1\ArvSak.AssemblyInfoInputs.cache
+C:\Users\Elev\Desktop\Programmering\ArvSak\ArvSak\obj\Debug\netcoreapp3.1\ArvSak.AssemblyInfo.cs
+C:\Users\Elev\Desktop\Programmering\ArvSak\ArvSak\obj\Debug\netcoreapp3.1\ArvSak.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Desktop\Programmering\ArvSak\ArvSak\bin\Debug\netcoreapp3.1\ArvSak.exe
+C:\Users\Elev\Desktop\Programmering\ArvSak\ArvSak\bin\Debug\netcoreapp3.1\ArvSak.deps.json
+C:\Users\Elev\Desktop\Programmering\ArvSak\ArvSak\bin\Debug\netcoreapp3.1\ArvSak.runtimeconfig.json
+C:\Users\Elev\Desktop\Programmering\ArvSak\ArvSak\bin\Debug\netcoreapp3.1\ArvSak.runtimeconfig.dev.json
+C:\Users\Elev\Desktop\Programmering\ArvSak\ArvSak\bin\Debug\netcoreapp3.1\ArvSak.dll
+C:\Users\Elev\Desktop\Programmering\ArvSak\ArvSak\bin\Debug\netcoreapp3.1\ArvSak.pdb
+C:\Users\Elev\Desktop\Programmering\ArvSak\ArvSak\obj\Debug\netcoreapp3.1\ArvSak.dll
+C:\Users\Elev\Desktop\Programmering\ArvSak\ArvSak\obj\Debug\netcoreapp3.1\ArvSak.pdb
+C:\Users\Elev\Desktop\Programmering\ArvSak\ArvSak\obj\Debug\netcoreapp3.1\ArvSak.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Elev\Desktop\Programmering\InterfaceShape3D\InterfaceShape3D\bin\Debug\netcoreapp3.1\InterfaceShape3D.exe
+C:\Users\Elev\Desktop\Programmering\InterfaceShape3D\InterfaceShape3D\bin\Debug\netcoreapp3.1\InterfaceShape3D.deps.json
+C:\Users\Elev\Desktop\Programmering\InterfaceShape3D\InterfaceShape3D\bin\Debug\netcoreapp3.1\InterfaceShape3D.runtimeconfig.json
+C:\Users\Elev\Desktop\Programmering\InterfaceShape3D\InterfaceShape3D\bin\Debug\netcoreapp3.1\InterfaceShape3D.runtimeconfig.dev.json
+C:\Users\Elev\Desktop\Programmering\InterfaceShape3D\InterfaceShape3D\bin\Debug\netcoreapp3.1\InterfaceShape3D.dll
+C:\Users\Elev\Desktop\Programmering\InterfaceShape3D\InterfaceShape3D\bin\Debug\netcoreapp3.1\InterfaceShape3D.pdb
+C:\Users\Elev\Desktop\Programmering\InterfaceShape3D\InterfaceShape3D\obj\Debug\netcoreapp3.1\InterfaceShape3D.csproj.AssemblyReference.cache
+C:\Users\Elev\Desktop\Programmering\InterfaceShape3D\InterfaceShape3D\obj\Debug\netcoreapp3.1\InterfaceShape3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\Desktop\Programmering\InterfaceShape3D\InterfaceShape3D\obj\Debug\netcoreapp3.1\InterfaceShape3D.AssemblyInfoInputs.cache
+C:\Users\Elev\Desktop\Programmering\InterfaceShape3D\InterfaceShape3D\obj\Debug\netcoreapp3.1\InterfaceShape3D.AssemblyInfo.cs
+C:\Users\Elev\Desktop\Programmering\InterfaceShape3D\InterfaceShape3D\obj\Debug\netcoreapp3.1\InterfaceShape3D.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Desktop\Programmering\InterfaceShape3D\InterfaceShape3D\obj\Debug\netcoreapp3.1\InterfaceShape3D.dll
+C:\Users\Elev\Desktop\Programmering\InterfaceShape3D\InterfaceShape3D\obj\Debug\netcoreapp3.1\InterfaceShape3D.pdb
+C:\Users\Elev\Desktop\Programmering\InterfaceShape3D\InterfaceShape3D\obj\Debug\netcoreapp3.1\InterfaceShape3D.genruntimeconfig.cache
